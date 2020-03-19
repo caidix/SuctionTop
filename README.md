@@ -20,3 +20,6 @@
           </StickyBody.StickyContainer>
 ```
 
+## touchMove拉动模块
+
+- 参数： width：拉伸宽度， direction：left/right(目前只支持两种)
